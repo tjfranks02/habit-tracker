@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #062f4f;
+    overflow: hidden;
+    height: 6rem;
+}
+
+.main-nav-link {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.main-nav-link:link,
+.main-nav-link:visited {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 1.2rem;
+    transition: all 0.3s;
+}
+
+.main-nav-link:hover,
+.main-nav-link:active {
+    color: yellow;
+}
+
+.habitlist {
+    margin: 20px;
+}
+
+.nav-cta:link,
+.nav-cta:visited {
+    padding: 0.5rem 1.5rem;
+    border-radius: 9px;
+    margin: 30px;
+    color: #fff;
+    background-color: red;
+    position: relative;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.2rem;
+    transition: all 0.3s;
+    float: right;
+}
+
+.stat-summary, .sign-in, .sign-up, .add-task {
+    margin: 30px;
+}
