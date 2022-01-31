@@ -3,10 +3,14 @@
 ### Video Demonstration of the App
 :arrow_forward: [Click here](https://youtu.be/CKBisH0LyFA) for a video demonstration of the app.
 
+
+
 ### Introduction
 The project is a simple, easy-to-use daily planner with a focus on helping users to improve their daily productivity. With a minimalistic interface, users add tasks to their daily planner and tick them off when they are completed. Each day's results are recorded and can be queried at any time for a variety of useful statistics.
 
 We all know how hard it is to stick to any habit and especially one that is challenging or unfamiliar. It is all too common to experience a few days of good progress before dropping the ball and ending up in the same place as where we started. I believe that this is at least in part down to the focus on being perfect every day where instead we should be aiming to slowly get results and build up the kind of consistency that leads to long term success. This belief is reflected in the design of the app with statistics generated for the user presenting the progress in comparison to previous days. By highlighting the little improvements in a user's productivity, the app is able to provide small burst of motivation that encourage them to persist and build a better version of themseles over time.
+
+
 
 ### Technologies used
 #### React
@@ -17,6 +21,7 @@ Used on backend servers to listen on a port and handle requests flowing from the
 
 #### MongoDB
 Is a NoSQL database that is very well suited to the cloud computing model. “MongoDB’s scale-out architecture, which distributes work across many smaller (and cheaper) computers, means that you can create an application that will handle spikes in traffic as your business grows” [1] (MongoDB, 2021). This fits well with the requirements of my application which needs to be able to scale with increasing user demand.
+
 
 
 ### App Features
