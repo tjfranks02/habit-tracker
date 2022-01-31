@@ -1,5 +1,8 @@
 # Habit Tracker
 
+### Video Demonstration of the App
+:arrow_forward: [Click here](https://youtu.be/CKBisH0LyFA) for a video demonstration of the app.
+
 ### Introduction
 The project is a simple, easy-to-use daily planner with a focus on helping users to improve their daily productivity. With a minimalistic interface, users add tasks to their daily planner and tick them off when they are completed. Each day's results are recorded and can be queried at any time for a variety of useful statistics.
 
